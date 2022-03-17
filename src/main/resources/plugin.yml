@@ -30,7 +30,7 @@ permissions:
         default: op
       mw.command.teleport:
         description: "allows player to use command /cm teleport"
-        default: op
+        default: 
       mw.command.spawn:
         description: "allows player to use command /cm spawn"
         default: op
